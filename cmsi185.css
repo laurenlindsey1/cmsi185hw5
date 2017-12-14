@@ -1,0 +1,121 @@
+body{
+  background-color: lightblue;
+  padding: 20px;
+}
+h1{
+  color: white;
+	font-size: 90px;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-style: oblique;
+	text-align: center;
+	background-color: lightpink;
+	text-shadow:5px 5px black;
+	height: auto;
+  width: 100%;
+  margin-top: 20px;
+}
+p{
+  color: black;
+  font-size: 20px;
+}
+span.header{
+  font-size: 40;
+  color: white;
+  margin-left: 500px;
+}
+a{
+  color: lightpink;
+  text-decoration: none;
+}
+span.button{
+  transition: box-shadow .3s;
+  width: 60px;
+  height: 60px;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  float: center;
+  font-size: 18px;
+  padding: 10px;
+
+}
+.button:hover {
+  box-shadow: 5px 5px 10px black;
+}
+span.olivia{
+  color: black;
+  border-style: double;
+  border-width: 6px;
+  border-color: black;
+  float: right;
+   width: 40%;
+   padding: 50px;
+   margin-top: 20px;
+}
+span.lauren{
+  color: black;
+  border-style: double;
+  border-width: 6px;
+  border-color: black;
+  float: left;
+   width: 40%;
+   padding: 50px;
+   margin-top: 20px;
+}
+h3{
+  font-size: 30px;
+  text-align: center;
+}
+img{
+  height: 400px;
+  width: 400px;
+}
+#alphabet {
+  margin:15px auto;
+  padding:0;
+  max-width:900px;
+}
+
+#alphabet li {
+  float:left;
+  margin: 0 10px 10px 0;
+  list-style:none;
+  width:20px;
+  height:20px;
+  padding-top:10px;
+}
+
+#my-word {
+  margin: 0;
+  display: block;
+  padding: 0;
+  display:block;
+}
+
+#my-word li {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  display: inline-block;
+  padding: 0 10px;
+  font-size:24px;
+}
+#mylives{
+  font-size:18px;
+  text-align:center;
+  display:block;
+}
+span.intro{
+  color: black;
+  border-style: double;
+  border-width: 6px;
+  border-color: black;
+  float: left;
+  width: 40%;
+  padding: 50px;
+  margin-top: 20px;
+}
+span.lmupic{
+  float: right;
+  padding-right: 75px;
+}
